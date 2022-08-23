@@ -9,6 +9,7 @@
     "generate": "nuxi generate"
   },
   "dependencies": {
+    "@fontsource/inter": "^4.5.12",
     "core-js": "^3.19.3",
     "nuxt-edge": "^2.16.0-27616340.013f051b",
     "vue": "^2.7.9",

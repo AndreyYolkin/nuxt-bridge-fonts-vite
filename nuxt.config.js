@@ -16,6 +16,9 @@ export default defineNuxtConfig({
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ]
   },
+  css: [
+    '@fontsource/inter/variable.css'
+  ],
   bridge: {
     vite: true
   }
